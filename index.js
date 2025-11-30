@@ -17,9 +17,8 @@ const client = new TwitterApi({
 
 Klaim di resto ini sebelum habis 👇👇👇
 spf.shopee.co.id/8fKU2ITkWG
-spf.shopee.co.id/8fKU2ITkWG
 
-t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis ongkir thr dana kaget
+t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis ongkir thr dana kaget Gary Iskak Raisa 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,4 +35,5 @@ t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis 
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
