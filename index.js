@@ -13,12 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-‼️ Voucher diskon 100% max 40rb! Bisa semua resto ✨
+‼️ Voucher makanan diskon 100% max 40rb! Bisa semua resto ✨
 
 Klaim di resto ini sebelum habis 👇👇👇
-spf.shopee.co.id/8fKU2ITkWG
+https://spf.shopee.co.id/LfwdVx03d
+https://spf.shopee.co.id/LfwdVx03d
 
-t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis ongkir thr dana kaget Gary Iskak Raisa 
+t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis ongkir thr dana kaget minggu besok senin  
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -35,5 +36,6 @@ t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis 
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
