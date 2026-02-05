@@ -13,13 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-‼️ Voucher makanan diskon 100% max 40rb! Bisa semua resto ✨
+Murah banget mumpung lagi turun harga diskon jadi 12k an dapet 2 gass
 
-Klaim di resto ini sebelum habis 👇👇👇
-https://spf.shopee.co.id/LfwdVx03d
-https://spf.shopee.co.id/LfwdVx03d
+Buruan co sebelum naik 👇
+spf.shopee.co.id/1La31UlgQB
+spf.shopee.co.id/1La31UlgQB
 
-t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis ongkir thr dana kaget minggu besok senin  
+kode promo voucher shopeefood gofood grabfood go grab shopee food gojek gratis ongkir  
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,6 +36,7 @@ t. gofood grabfood shopeefood kode promo go grab shopee food gojek daget gratis 
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
 
